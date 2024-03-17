@@ -1,6 +1,6 @@
 module github.com/rancher/k3os
 
-go 1.16
+go 1.21
 
 require (
 	github.com/docker/docker v1.13.1
